@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*/.env
+*/.env.*
+
+# Build artifacts
+dist/
+dist-ssr/
+build/
+*/dist/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
